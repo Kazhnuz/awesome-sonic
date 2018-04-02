@@ -32,6 +32,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Ultimate Flash Sonic](http://www.allsonicgames.net/ultimate-flash-sonic.php) - Small Sonic Advance fangame in flash, by dennis_g.
 
+- [Sonic 2K6 2D](https://www.youtube.com/watch?v=bX2bgVWzHCs) a small three-level 2D version of Sonic 2006, by BlazeHedgehog.
+
 ## Meme and Humorous
 
 - [Sunky.MPEG](https://gamejolt.com/games/sunky-mpeg/78243) - Funky sonic.exe parody, by LooneyDude.
