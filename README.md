@@ -8,7 +8,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 # Fangames
 
-## Classic
+## Classic 2D
 
 - [Sonic Axiom](https://forums.sonicretro.org/index.php?showtopic=26434) - CD-inspired Sonic Fangame, by Vexer.
 
@@ -33,6 +33,24 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Ultimate Flash Sonic](http://www.allsonicgames.net/ultimate-flash-sonic.php) - Small Sonic Advance fangame in flash, by dennis_g.
 
 - [Sonic 2K6 2D](https://www.youtube.com/watch?v=bX2bgVWzHCs) - Small three-level 2D version of Sonic 2006, by BlazeHedgehog.
+
+## Fangames 3D Modern
+
+- [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
+
+## Knuckles' fangames
+
+- [Knuckles’ Halloween Tale](https://nefault1st.wordpress.com/downloads/knuckles-halloween-tale-halloween-special/) - Halloween-themed Emerald Hunt fangame, by Nefault1st.
+
+## Openworld Fangames
+
+- [Green Hill Paradise](https://www.youtube.com/watch?v=C0IsSeE_ckI) - Open-World one-level 3D Sonic Fangame, by SuperSonic68.
+
+- [Green Hill Paradise - Act 2](https://www.youtube.com/watch?v=6nmokhPUCQ0) - Sequel of Green Hill Paradise, by SuperSonic68.
+
+## Chao World
+
+- [Chao Resort Island](https://nefault1st.wordpress.com/downloads/chao-resort-island/) - Chao rising fangame, by Nefault1st.
 
 ## Meme and Humorous
 
