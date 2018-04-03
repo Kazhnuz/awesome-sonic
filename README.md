@@ -86,9 +86,11 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ### Sonic the Hedgehog 3 & Knuckles
 
-- [Sonic the Hedgehog 3 and Sally Acorn](http://forums.sonicretro.org/index.php?showtopic=34300) - Play as Sally in Sonic 3&k, by E-122 Psi.
+- [Sonic the Hedgehog 3 and Amy Rose](http://forums.sonicretro.org/index.php?showtopic=28820) - Play as Amy in Sonic 3&K, by E-122 Psi.
 
 - [Sonic 3 Cz](http://info.sonicretro.org/Sonic_3_Cz#History) - Play as Amy in Sonic 3&K, by Hayate.
+
+- [Sonic the Hedgehog 3 and Sally Acorn](http://forums.sonicretro.org/index.php?showtopic=34300) - Play as Sally in Sonic 3&k, by E-122 Psi.
 
 - [Metal Sonic in Sonic the Hedgehog 3 & Knuckles](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog_3_%26_Knuckles) - Play as Metal Sonic in Sonic 3&K, by Lone Devil.
 
