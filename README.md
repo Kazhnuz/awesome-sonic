@@ -58,18 +58,27 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ### Sonic the Hedgehog 1
 
+- [Tails in Sonic the Hedgehog](http://info.sonicretro.org/Tails_in_Sonic_the_Hedgehog) - Play as Tails in Sonic 1, by drx (v1) and Puto (v2)
+
+- [Knuckles the Echidna in Sonic the Hedgehog](http://info.sonicretro.org/Knuckles_the_Echidna_in_Sonic_the_Hedgehog) - Play as Knuckles in Sonic 1, by Stealth.
+
 - [Amy Rose in Sonic the Hedgehog](http://info.sonicretro.org/Amy_Rose_in_Sonic_the_Hedgehog) - Play as Amy in Sonic 1, by E-122 Psi.
 
 - [Sally Acorn in Sonic the Hedgehog](http://info.sonicretro.org/Sally_Acorn_in_Sonic_the_Hedgehog) - Play as Sally in Sonic 1, by E-122 Psi.
 
 - [Bunnie Rabbot in Sonic the Hedgehog](http://forums.sonicretro.org/index.php?showtopic=34542) - Play as Bunnie in Sonic 1, by E-122 Psi.
 
-- [Kirby in Sonic the Hedgehog](http://forums.sonicretro.org/index.php?showtopic=34887) - Play as Kirby in Sonic 1, by Lone Devil.
+- [Kirby in Sonic the Hedgehog](http://info.sonicretro.org/Kirby_in_Sonic_the_Hedgehog) - Play as Kirby in Sonic 1, by Lone Devil.
 
 - [Metal Sonic in Sonic the Hedgehog](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog) - Play as Metal Sonic in Sonic 1, by Lone Devil.
 
+- [Charmy Bee in Sonic the Hedgehog](http://info.sonicretro.org/Charmy_Bee_in_Sonic_the_Hedgehog) - Play as Charmy Bee in Sonic 1, by E-122 Psi.
+
+- [Mighty the Armadillo in Sonic the Hedgehog](http://info.sonicretro.org/Mighty_the_Armadillo_in_Sonic_the_Hedgehog) - Play as Mighty in Sonic 1, by E-122 Psi.
+
 - [Somari the Adventurer](http://info.sonicretro.org/Somari_the_Adventurer) - Play as Mario in Sonic 1, by Lone Devil.
 
+- [Motobug the Badnik in Sonic the Hedgehog](http://info.sonicretro.org/Motobug_the_Badnik_in_Sonic_the_Hedgehog) - Play as a Motobug in Sonic 1, by Polygon Jim.
 
 ### Sonic the Hedgehog 2
 
