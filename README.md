@@ -8,7 +8,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 # Fangames
 
-## Classic 2D
+## Style Megadrive
 
 - [Sonic Axiom](https://forums.sonicretro.org/index.php?showtopic=26434) - CD-inspired Sonic Fangame, by Vexer.
 
@@ -24,7 +24,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic Time Twisted](https://info.sonicretro.org/Sonic_Time_Twisted) - Sonic CD spiritual sequel, by Overbound and the Time Twisted Team.
 
-## Advance
+## Style Advance
 
 - [Sonic Fusion](http://forums.sonicretro.org/index.php?showtopic=20641&st=0) - Sonic Adventure-inspired fangame in 2D, by Felik.
 
@@ -34,7 +34,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic 2K6 2D](https://www.youtube.com/watch?v=bX2bgVWzHCs) - Small three-level 2D version of Sonic 2006, by BlazeHedgehog.
 
-## Fangames 3D Modern
+## Style 3D Modern
 
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
 
