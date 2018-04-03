@@ -52,7 +52,48 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 # Hackroms
 
-## Alternate playstyle
+## Alternative Characters
+
+> Replay classics as other characters !
+
+### Sonic the Hedgehog 1
+
+- [Amy Rose in Sonic the Hedgehog](http://info.sonicretro.org/Amy_Rose_in_Sonic_the_Hedgehog) - Play as Amy in Sonic 1, by E-122 Psi.
+
+- [Sally Acorn in Sonic the Hedgehog](http://info.sonicretro.org/Sally_Acorn_in_Sonic_the_Hedgehog) - Play as Sally in Sonic 1, by E-122 Psi.
+
+- [Bunnie Rabbot in Sonic the Hedgehog](http://forums.sonicretro.org/index.php?showtopic=34542) - Play as Bunnie in Sonic 1, by E-122 Psi.
+
+- [Kirby in Sonic the Hedgehog](http://forums.sonicretro.org/index.php?showtopic=34887) - Play as Kirby in Sonic 1, by Lone Devil.
+
+- [Metal Sonic in Sonic the Hedgehog](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog) - Play as Metal Sonic in Sonic 1, by Lone Devil.
+
+- [Somari the Adventurer](http://info.sonicretro.org/Somari_the_Adventurer) - Play as Mario in Sonic 1, by Lone Devil.
+
+
+### Sonic the Hedgehog 2
+
+- [Amy Rose in Sonic the Hedgehog 2](http://info.sonicretro.org/Amy_Rose_in_Sonic_the_Hedgehog_2) - Play as (Classic) Amy in Sonic 2, by E-122 Psi.
+
+- [Sonic the Hedgehog 2 : Pink Edition](http://info.sonicretro.org/Sonic_the_Hedgehog_2:_Pink_Edition) - Play as (Modern) Amy and Cream in Sonic 2, by E-122 Psi.
+
+- [Sally Acorn in Sonic the Hedgehog 2](http://info.sonicretro.org/Sally_Acorn_in_Sonic_the_Hedgehog_2) - Play as Sally in Sonic 2, by E-122 Psi.
+
+- [Kirby in Sonic the Hedgehog 2](http://forums.sonicretro.org/index.php?showtopic=34887) - Play as Kirby in Sonic 2, by LoneDevil.
+
+- [Metal Sonic in Sonic the Hedgehog 2](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog_2) - Play as Metal Sonic in Sonic 2, by Lone Devil.
+
+
+### Sonic the Hedgehog 3 & Knuckles
+
+- [Sonic the Hedgehog 3 and Sally Acorn](http://forums.sonicretro.org/index.php?showtopic=34300) - Play as Sally in Sonic 3&k, by E-122 Psi.
+
+- [Sonic 3 Cz](http://info.sonicretro.org/Sonic_3_Cz#History) - Play as Amy in Sonic 3&K, by Hayate.
+
+- [Metal Sonic in Sonic the Hedgehog 3 & Knuckles](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog_3_%26_Knuckles) - Play as Metal Sonic in Sonic 3&K, by Lone Devil.
+
+
+## Alternate gameplay
 
 - [Big's Fishing Derby](http://info.sonicretro.org/Big%27s_Fishing_Derby) - Big-themed fishing game set in levels from diverse 2D games, by Flamewing.
 
