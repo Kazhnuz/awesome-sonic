@@ -16,6 +16,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
   - [Meme and Humorous](#meme-and-humorous)
   - [Other](#other)
 - [Hackroms](#hackroms)
+  - [Total Conversion](#total-conversion)
   - [Alternative Characters](#alternative-characters)
   - [Alternate gameplay](#alternate-gameplay)
 
@@ -80,6 +81,16 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Eggman hates furries](https://gamejolt.com/games/eggman-hates-furries/4110) - Boss-focused Sonic fangame with a unique ambiance, by Oddwarg.
 
 # Hackroms
+
+## Total Conversion
+
+> Transform the original game in a brand new adventure !
+
+- [Mobius Evolution](http://info.sonicretro.org/Mobius_Evolution) - Sonic 1 total conversion, with Sonic and Blaze playable, by Abyssal Leopard.
+
+- [Metal Sonic Hyperdrive](http://info.sonicretro.org/Metal_Sonic_Hyperdrive) - Complete game based on Sonic 1, by Lone Devil.
+
+- [Metal Sonic Rebooted](http://info.sonicretro.org/Metal_Sonic_Rebooted) - Complete game with Metal Sonic as the main character, by Lone Devil.
 
 ## Alternative Characters
 
