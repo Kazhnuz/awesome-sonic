@@ -4,11 +4,24 @@
 
 Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to find our way inside all the fan-created games that exist. This list aim to make it easier to find what you want !
 
-**This list is a WIP and still very incomplete**
+> **This list is a WIP and still very incomplete**
+
+# Content
+
+- [Fangames](#fangames)
+  - [Genesis Style](#genesis-style)
+  - [Advance Style](#advance-style)
+  - [3D Modern Style](#3D-modern-style)
+  - [Chao World](#chao-world)
+  - [Meme and Humorous](#meme-and-humorous)
+  - [Other](#other)
+- [Hackroms](#hackroms)
+  - [Alternative Characters](#alternative-characters)
+  - [Alternate gameplay](#alternate-gameplay)
 
 # Fangames
 
-## Style Megadrive
+## Genesis Style
 
 - [Sonic Axiom](https://forums.sonicretro.org/index.php?showtopic=26434) - CD-inspired Sonic Fangame, by Vexer.
 
@@ -24,7 +37,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic Time Twisted](https://info.sonicretro.org/Sonic_Time_Twisted) - Sonic CD spiritual sequel, by Overbound and the Time Twisted Team.
 
-## Style Advance
+## Advance Style
 
 - [Sonic Fusion](http://forums.sonicretro.org/index.php?showtopic=20641&st=0) - Sonic Adventure-inspired fangame in 2D, by Felik.
 
@@ -34,15 +47,13 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic 2K6 2D](https://www.youtube.com/watch?v=bX2bgVWzHCs) - Small three-level 2D version of Sonic 2006, by BlazeHedgehog.
 
-## Style 3D Modern
+- [Knuckles’ Halloween Tale](https://nefault1st.wordpress.com/downloads/knuckles-halloween-tale-halloween-special/) - Halloween-themed Emerald Hunt fangame, by Nefault1st.
+
+## 3D Modern style
 
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
 
-## Knuckles' fangames
-
-- [Knuckles’ Halloween Tale](https://nefault1st.wordpress.com/downloads/knuckles-halloween-tale-halloween-special/) - Halloween-themed Emerald Hunt fangame, by Nefault1st.
-
-## Openworld Fangames
+### Openworld Fangames
 
 - [Green Hill Paradise](https://www.youtube.com/watch?v=C0IsSeE_ckI) - Open-World one-level 3D Sonic Fangame, by SuperSonic68.
 
