@@ -17,8 +17,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
   - [Other](#other)
 - [Hackroms](#hackroms)
   - [Total Conversion](#total-conversion)
-  - [Alternative Characters](#alternative-characters)
   - [Alternate gameplay](#alternate-gameplay)
+  - [Alternative Characters](#alternative-characters)
 
 # Fangames
 
@@ -92,6 +92,26 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Metal Sonic Rebooted](http://info.sonicretro.org/Metal_Sonic_Rebooted) - Complete game with Metal Sonic as the main character, by Lone Devil.
 
+### Other playstyles
+
+> Transform the original games into a completely different game and playstyle
+
+- [Big's Fishing Derby](http://info.sonicretro.org/Big%27s_Fishing_Derby) - Big-themed fishing game set in levels from diverse 2D games, by Flamewing.
+
+- [Doctor Robotnik's Creature Capture](http://info.sonicretro.org/Doctor_Robotnik%27s_Creature_Capture) - Play as Doctor Robotnik and try to capture as many creatures as possible, by MarkeyJeser.
+
+- [Knuckles' Emerald Hunt](http://info.sonicretro.org/Knuckles%27_Emerald_Hunt) - Emerald-hunting game inspired by Sonic Adventure Knuckles levels, by MainMemory.
+
+## Alternate gameplay
+
+> Add new playstyle or missions to the existing games
+
+- [Sonic Classic Heroes](http://info.sonicretro.org/Sonic_Classic_Heroes) - Replay Sonic 1 and Sonic 2 with a Heroes-style gameplay, by Flamewing.
+
+- [Sonic 2 Adventure Edition](http://info.sonicretro.org/Sonic_2_Adventure_Edition) - Sonic 2 with several Adventure-style gameplay elements, by MainMemory.
+
+- [Sonic 2 Secret Ring Edition](http://info.sonicretro.org/Sonic_2_Secret_Rings_Edition) - Add Secret-Ring style missions to Sonic 2, by MainMemory.
+
 ## Alternative Characters
 
 > Replay classics as other characters !
@@ -142,12 +162,3 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Sonic the Hedgehog 3 and Sally Acorn](http://forums.sonicretro.org/index.php?showtopic=34300) - Play as Sally in Sonic 3&k, by E-122 Psi.
 
 - [Metal Sonic in Sonic the Hedgehog 3 & Knuckles](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog_3_%26_Knuckles) - Play as Metal Sonic in Sonic 3&K, by Lone Devil.
-
-
-## Alternate gameplay
-
-- [Big's Fishing Derby](http://info.sonicretro.org/Big%27s_Fishing_Derby) - Big-themed fishing game set in levels from diverse 2D games, by Flamewing.
-
-- [Doctor Robotnik's Creature Capture](http://info.sonicretro.org/Doctor_Robotnik%27s_Creature_Capture) - Play as Doctor Robotnik and try to capture as many creatures as possible, by MarkeyJeser.
-
-- [Knuckles' Emerald Hunt](http://info.sonicretro.org/Knuckles%27_Emerald_Hunt) - Emerald-hunting game inspired by Sonic Adventure Knuckles levels, by MainMemory.
