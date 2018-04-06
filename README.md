@@ -11,6 +11,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Fangames](#fangames)
   - [Genesis Style](#genesis-style)
   - [Advance Style](#advance-style)
+  - [3D Classic Style](#3D-classic-style)
   - [3D Modern Style](#3D-modern-style)
   - [Chao World](#chao-world)
   - [Meme and Humorous](#meme-and-humorous)
@@ -65,7 +66,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
 - [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
 
-## 3D Modern style
+## 3D Modern Style
 
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
 
