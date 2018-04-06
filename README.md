@@ -92,7 +92,15 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Metal Sonic Rebooted](http://info.sonicretro.org/Metal_Sonic_Rebooted) - Complete game with Metal Sonic as the main character, by Lone Devil.
 
-### Other playstyles
+### Smaller games
+
+- [Pana Der Hejhog](https://info.sonicretro.org/Pana_Der_Hejhog) - Small but detailled romhack, by MarkeyJester
+
+- [Sonic : The Next Level](https://forums.sonicretro.org/index.php?showtopic=34835) - Have you ever played Sonic The Hedgehog on a different planet?! by MarkeyJester
+
+- [Sonic Boom](https://info.sonicretro.org/Sonic_Boom_(hack)) - Short but intense modern-based hackrom, by the SÆGA collective.
+
+### Different playstyles
 
 > Transform the original games into a completely different game and playstyle
 
