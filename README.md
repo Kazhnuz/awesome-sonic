@@ -50,6 +50,21 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Knuckles’ Halloween Tale](https://nefault1st.wordpress.com/downloads/knuckles-halloween-tale-halloween-special/) - Halloween-themed Emerald Hunt fangame, by Nefault1st.
 
+## 3D Classic Style
+
+- [Classic Sonic Adventure](http://shad-unit.webs.com/sonic3dadventure.htm) - 3D Classic fangame, by Chishado Games.
+
+### Sonic Robo Blast 2
+
+- [Sonic Robo Blast 2](http://srb2.org/) - Doom-based 3D fangame, by Sonic Team Junior.
+- [SRB2 Top Down](https://mb.srb2.org/showthread.php?t=42317) - Top Down SRB2 Mod, by the Kart Krew.
+- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
+- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
+- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
+- [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
+- [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
+- [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
+
 ## 3D Modern style
 
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
