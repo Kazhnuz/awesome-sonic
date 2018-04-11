@@ -135,6 +135,12 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Knuckles' Emerald Hunt](http://info.sonicretro.org/Knuckles%27_Emerald_Hunt) - Emerald-hunting game inspired by Sonic Adventure Knuckles levels, by MainMemory.
 
+## Extensions
+
+- [Sonic 2 Delta](http://info.sonicretro.org/Sonic_2_Delta) - Sonic 2 fused with Sonic 1, with the unused level of Sonic 2, by Esrael.
+
+- [Sonic 2 Long Version](http://info.sonicretro.org/Sonic_2_Long_Version) - Sonic 2 extended to integrate the unused levels, by Sonic Hachelle-Bee.
+
 ## Alternate gameplay
 
 > Add new playstyle or missions to the existing games
@@ -144,6 +150,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Sonic 2 Adventure Edition](http://info.sonicretro.org/Sonic_2_Adventure_Edition) - Sonic 2 with several Adventure-style gameplay elements, by MainMemory.
 
 - [Sonic 2 Secret Ring Edition](http://info.sonicretro.org/Sonic_2_Secret_Rings_Edition) - Add Secret-Ring style missions to Sonic 2, by MainMemory.
+
+- [Robotnik's Revenge](http://info.sonicretro.org/Robotnik%27s_Revenge) - Boss rush with bosses from Sonic 1 and 2, by ColinC10.
 
 ## Alternative Characters
 
