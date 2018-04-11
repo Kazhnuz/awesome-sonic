@@ -35,7 +35,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic After the Sequel / AtS DX](https://info.sonicretro.org/Sonic_After_the_Sequel) - Sonic 2 Sequel, by Lakefeperd.
 
-- [Sonic Chrono Adventure](https://sites.google.com/site/sonicchronoadventure/) - "Sonicvania" fangame with more focus on the story, by Lakefeperd.
+- [Sonic Chrono Adventure](https://sites.google.com/site/sonicchronoadventure/) - "Metronic" fangame with more focus on the story, by Lakefeperd.
 
 - [Sonic Time Twisted](https://info.sonicretro.org/Sonic_Time_Twisted) - Sonic CD spiritual sequel, by Overbound and the Time Twisted Team.
 
