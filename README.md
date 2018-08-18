@@ -9,21 +9,23 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 # Content
 
 - [Fangames](#fangames)
-  - [Genesis Style](#genesis-style)
-  - [Advance Style](#advance-style)
-  - [3D Classic Style](#3d-classic-style)
-  - [3D Modern Style](#3d-modern-style)
-  - [Chao World](#chao-world)
-  - [Meme and Humorous](#meme-and-humorous)
-  - [Other](#other)
+  - [Genesis-like](#genesis-like)
+  - [Advance-like](#advance-like)
+  - [3D Classic](#3d-classic)
+  - [3D Modern](#3d-modern)
+  - [Other playstyles](#other-playstyles)
 - [Hackroms](#hackroms)
   - [Total Conversion](#total-conversion)
-  - [Alternate gameplay](#alternate-gameplay)
-  - [Alternative Characters](#alternative-characters)
+  - [Improvements and New Features](#improvements-and-new-features)
+  - [Gameplay Hacks](#gameplay-hacks)
+  - [Character Hacks](#characters-hacks)
+- [Mods](#mods)
+  - [Total Conversion](#total-conversion)
+  - [Levels and Level Packs](#levels-and-level-packs)
 
 # Fangames
 
-## Genesis Style
+## Genesis-like
 
 - [Sonic Axiom](https://forums.sonicretro.org/index.php?showtopic=26434) - CD-inspired Sonic Fangame, by Vexer.
 
@@ -39,7 +41,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic Time Twisted](https://info.sonicretro.org/Sonic_Time_Twisted) - Sonic CD spiritual sequel, by Overbound and the Time Twisted Team.
 
-## Advance Style
+## Advance-like
 
 - [Sonic Fusion](http://forums.sonicretro.org/index.php?showtopic=20641&st=0) - Sonic Adventure-inspired fangame in 2D, by Felik.
 
@@ -51,31 +53,15 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Knuckles’ Halloween Tale](https://nefault1st.wordpress.com/downloads/knuckles-halloween-tale-halloween-special/) - Halloween-themed Emerald Hunt fangame, by Nefault1st.
 
-## 3D Classic Style
+## 3D Classic
 
 - [Classic Sonic Adventure](http://shad-unit.webs.com/sonic3dadventure.htm) - 3D Classic fangame, by Chishado Games.
 
 - [Sonic Hexacide](https://phpbb.mfgg.net/viewtopic.php?f=8&t=17186) - A mixt between Xtreme and Lost World, by DJ Coco.
 
-### Sonic Robo Blast 2
-
 - [Sonic Robo Blast 2](http://srb2.org/) - Doom-based 3D fangame, by Sonic Team Junior.
 
-- [SRB2 Top Down](https://mb.srb2.org/showthread.php?t=42317) - Top Down SRB2 Mod, by the Kart Krew.
-
-- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
-
-- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
-
-- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
-
-- [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
-
-- [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
-
-- [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
-
-## 3D Modern Style
+## 3D Modern
 
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
 
@@ -85,11 +71,17 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Green Hill Paradise - Act 2](https://www.youtube.com/watch?v=6nmokhPUCQ0) - Sequel of Green Hill Paradise, by SuperSonic68.
 
-## Chao World
+## Other Playstyles
+
+> All games with non-standard gameplay
+
+- [Eggman hates furries](https://gamejolt.com/games/eggman-hates-furries/4110) - Boss-focused Sonic fangame with a unique ambiance, by Oddwarg.
+
+### Chao
 
 - [Chao Resort Island](https://nefault1st.wordpress.com/downloads/chao-resort-island/) - Chao rising fangame, by Nefault1st.
 
-## Meme and Humorous
+### Meme and Humor
 
 - [Sunky.MPEG](https://gamejolt.com/games/sunky-mpeg/78243) - Funky sonic.exe parody, by LooneyDude.
 
@@ -101,15 +93,11 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic Boom and the Smash Crew](https://sonicfangameshq.com/forums/showcase/sonic-boom-and-the-smash-crew.85/) - Humorous smash Bros clone with Sonic Boom character, by MetalSonic3.
 
-## Other
-
-- [Eggman hates furries](https://gamejolt.com/games/eggman-hates-furries/4110) - Boss-focused Sonic fangame with a unique ambiance, by Oddwarg.
-
 # Hackroms
 
 ## Total Conversion
 
-> Transform the original game in a brand new adventure !
+> Hacks that transform the game in a completely or really different games (new levels, graphics, etc).
 
 - [Mobius Evolution](http://info.sonicretro.org/Mobius_Evolution) - Sonic 1 total conversion, with Sonic and Blaze playable, by Abyssal Leopard.
 
@@ -117,7 +105,9 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Metal Sonic Rebooted](http://info.sonicretro.org/Metal_Sonic_Rebooted) - Complete game with Metal Sonic as the main character, by Lone Devil.
 
-### Smaller games
+### Small games
+
+> Hacks with few levels
 
 - [Pana Der Hejhog](https://info.sonicretro.org/Pana_Der_Hejhog) - Small but detailled romhack, by MarkeyJester
 
@@ -133,29 +123,37 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Doctor Robotnik's Creature Capture](http://info.sonicretro.org/Doctor_Robotnik%27s_Creature_Capture) - Play as Doctor Robotnik and try to capture as many creatures as possible, by MarkeyJeser.
 
-- [Knuckles' Emerald Hunt](http://info.sonicretro.org/Knuckles%27_Emerald_Hunt) - Emerald-hunting game inspired by Sonic Adventure Knuckles levels, by MainMemory.
+## Improvements and New Features
 
-## Extensions
-
-- [Sonic 2 Delta](http://info.sonicretro.org/Sonic_2_Delta) - Sonic 2 fused with Sonic 1, with the unused level of Sonic 2, by Esrael.
+### Sonic the Hedgehog 2
 
 - [Sonic 2 Long Version](http://info.sonicretro.org/Sonic_2_Long_Version) - Sonic 2 extended to integrate the unused levels, by Sonic Hachelle-Bee.
 
-## Alternate gameplay
+### Sonic the Hedgehog 1 and 2
 
-> Add new playstyle or missions to the existing games
+- [Sonic 2 Delta](http://info.sonicretro.org/Sonic_2_Delta) - Sonic 2 fused with Sonic 1, with the unused level of Sonic 2, by Esrael.
 
-- [Sonic Classic Heroes](http://info.sonicretro.org/Sonic_Classic_Heroes) - Replay Sonic 1 and Sonic 2 with a Heroes-style gameplay, by Flamewing.
+## Gameplay Hacks
+
+> Hacks that are the same or nearly the same game, but with a different playstyle, missions. Boss-rush hacks are part of this category
+
+### Sonic the Hedgehog 2
 
 - [Sonic 2 Adventure Edition](http://info.sonicretro.org/Sonic_2_Adventure_Edition) - Sonic 2 with several Adventure-style gameplay elements, by MainMemory.
 
 - [Sonic 2 Secret Ring Edition](http://info.sonicretro.org/Sonic_2_Secret_Rings_Edition) - Add Secret-Ring style missions to Sonic 2, by MainMemory.
 
+- [Knuckles' Emerald Hunt](http://info.sonicretro.org/Knuckles%27_Emerald_Hunt) - Emerald-hunting game inspired by Sonic Adventure Knuckles levels, by MainMemory.
+
+### Sonic the Hedgehog 1 and 2
+
+- [Sonic Classic Heroes](http://info.sonicretro.org/Sonic_Classic_Heroes) - Replay Sonic 1 and Sonic 2 with a Heroes-style gameplay, by Flamewing.
+
 - [Robotnik's Revenge](http://info.sonicretro.org/Robotnik%27s_Revenge) - Boss rush with bosses from Sonic 1 and 2, by ColinC10.
 
-## Alternative Characters
+## Character Hacks
 
-> Replay classics as other characters !
+> Hacks were you play another character
 
 ### Sonic the Hedgehog 1
 
@@ -203,3 +201,29 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Sonic the Hedgehog 3 and Sally Acorn](http://forums.sonicretro.org/index.php?showtopic=34300) - Play as Sally in Sonic 3&k, by E-122 Psi.
 
 - [Metal Sonic in Sonic the Hedgehog 3 & Knuckles](http://info.sonicretro.org/Metal_Sonic_in_Sonic_the_Hedgehog_3_%26_Knuckles) - Play as Metal Sonic in Sonic 3&K, by Lone Devil.
+
+# Mods
+
+> Modificiations of non-emulated games, that usually needs the original games to works
+
+## Total Conversions
+
+### Sonic Robo Blast 2
+
+- [SRB2 Top Down](https://mb.srb2.org/showthread.php?t=42317) - Top Down SRB2 Mod, by the Kart Krew.
+
+- [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
+
+- [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
+
+## Levels and Level packs
+
+### Sonic Robo Blast 2
+
+- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
+
+- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
+
+- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
+
+- [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
