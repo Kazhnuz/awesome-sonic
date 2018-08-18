@@ -240,7 +240,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
 
-## Sonic Generations
+### Sonic Generations
 
 - [Sonic Adventure Generations](https://www.moddb.com/mods/sonic-adventure-generations) - Replay level of Adventure with a slighty more Adventure feeling, in Sonic Generations, by JCorvinus, Steven Grayson and S0lv0 (project without news, but with a few fun level to play).
 
