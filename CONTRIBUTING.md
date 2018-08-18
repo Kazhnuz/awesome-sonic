@@ -37,7 +37,7 @@ Ensure your pull request adheres to the following guidelines:
     
     - An abandonned games that already give a big enough experience à la Sonic Fusion
 
-- Please follow the classification file (classification.md). If it doesn't fit, please add an issue with the "classification" label.
+- Please follow the classification file (classification.md). If it doesn't fit, please add an issue with the "categories" label.
 
 Thank you for your suggestions!
 
