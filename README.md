@@ -240,6 +240,10 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
 
+## Sonic Generations
+
+- [Sonic Adventure Generations](https://www.moddb.com/mods/sonic-adventure-generations) - Replay level of Adventure with a slighty more Adventure feeling, in Sonic Generations, by JCorvinus, Steven Grayson and S0lv0 (project without news, but with a few fun level to play).
+
 ## Levels and Level packs
 
 ### Sonic Robo Blast 2
@@ -251,3 +255,11 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
 
 - [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
+
+## Characters Mods
+
+### Sonic Generations
+
+- [Super Sonic Generations](https://www.moddb.com/mods/super-sonic-generations/news/super-sonic-generations-2016-edition) - Play Sonic Generations as Super Sonic and transform into Hyper Form, by JoeTE.
+
+- [Real Tails Mod](https://www.moddb.com/games/sonic-generations/downloads/real-tails-mod-ver20) - Play Tails in Sonic Generations, by UltimateDarkman.
