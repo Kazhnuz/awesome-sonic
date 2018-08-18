@@ -105,6 +105,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Metal Sonic Rebooted](http://info.sonicretro.org/Metal_Sonic_Rebooted) - Complete game with Metal Sonic as the main character, by Lone Devil.
 
+- [Sonic 2 Retro Remix](http://info.sonicretro.org/Sonic_2_Retro_Remix) - A Sonic 2D hacks that require exploration to progress, by Thorn and DNXDelta.
+
 ### Small games
 
 > Hacks with few levels
@@ -114,6 +116,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Sonic : The Next Level](https://forums.sonicretro.org/index.php?showtopic=34835) - Have you ever played Sonic The Hedgehog on a different planet?! by MarkeyJester
 
 - [Sonic Boom](https://info.sonicretro.org/Sonic_Boom_(hack)) - Short but intense modern-based hackrom, by the SÆGA collective.
+
+- [Mr. Cat's 16 day challenge!](http://sonicresearch.org/community/index.php?threads/mr-cats-16-day-challenge-released.5029/) - A small hack created in 16 days
 
 ### Different playstyles
 
@@ -125,17 +129,37 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ## Improvements and New Features
 
+### Sonic the Hedgehog
+
+- [Sonic the Hedgehog 1 @ SAGE 2010](http://info.sonicretro.org/Sonic_the_Hedgehog_1_@_SAGE_2010) - An improvement to Sonic 1, with scoring in mind, by Cinossu
+
 ### Sonic the Hedgehog 2
 
 - [Sonic 2 Long Version](http://info.sonicretro.org/Sonic_2_Long_Version) - Sonic 2 extended to integrate the unused levels, by Sonic Hachelle-Bee.
+
+### Sonic the Hedgehog CD
+
+- [Sonic CD++](http://info.sonicretro.org/Sonic_CD_Plus_Plus) - A hack that add jump dash/homming attack and Sonic the Hedgehog 2-style Spin Dash to Sonic CD, by qiuu and snkenjoi
 
 ### Sonic the Hedgehog 1 and 2
 
 - [Sonic 2 Delta](http://info.sonicretro.org/Sonic_2_Delta) - Sonic 2 fused with Sonic 1, with the unused level of Sonic 2, by Esrael.
 
+### Sonic the Hedgehog 3 and Knuckles
+
+- [Sonic 3 Complete](http://info.sonicretro.org/Sonic_3_Complete) - The definitive version of Sonic 3 and Knuckles, with a lot of new features, by Tiddles, Neo, That One Jig, ValleyBell, flamewing and Hayate.
+
+### Sonic 3D Blast
+
+- [Sonic 3D: Director's Cut](http://info.sonicretro.org/Sonic_3D:_Director%27s_Cut) - A director's cut of Sonic 3D Blast, by Sonic 3D original programmer.
+
 ## Gameplay Hacks
 
 > Hacks that are the same or nearly the same game, but with a different playstyle, missions. Boss-rush hacks are part of this category
+
+### Sonic the Hedgehog
+
+- [An Ordinary Sonic ROM Hack](http://shc.sonicresearch.org/history13/1) - A romhack inspired by creepypastas, by Cinossu.
 
 ### Sonic the Hedgehog 2
 
