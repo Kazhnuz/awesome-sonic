@@ -244,6 +244,12 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic Adventure Generations](https://www.moddb.com/mods/sonic-adventure-generations) - Replay level of Adventure with a slighty more Adventure feeling, in Sonic Generations, by JCorvinus, Steven Grayson and S0lv0 (project without news, but with a few fun level to play).
 
+## Improvements and New Features
+
+### Sonic Generations
+
+- [Cell Shading](https://www.youtube.com/watch?v=UNso3wn7T0w) - By Dario.
+
 ## Levels and Level packs
 
 ### Sonic Robo Blast 2
@@ -255,6 +261,14 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
 
 - [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
+
+### Sonic Generations
+
+- [EggmanLand Mod](https://www.youtube.com/watch?v=KUdd9nq8DX8) - By N69vid.
+
+- [Aquarium Park](https://www.youtube.com/watch?v=IGOv9RRhy9k) - By Hyuga
+
+- [Final Rush](http://lostgenerations.freeforums.net/thread/6/final-level-sonic-world-version) - By Flash Dash
 
 ## Characters Mods
 
