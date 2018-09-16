@@ -149,6 +149,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic 3 Complete](http://info.sonicretro.org/Sonic_3_Complete) - The definitive version of Sonic 3 and Knuckles, with a lot of new features, by Tiddles, Neo, That One Jig, ValleyBell, flamewing and Hayate.
 
+- [Sonic 3 Hadoken](http://www.hacking-cult.org/?hacks/61/x) - Sonic 3&K. With the hadoken.
+
 ### Sonic 3D Blast
 
 - [Sonic 3D: Director's Cut](http://info.sonicretro.org/Sonic_3D:_Director%27s_Cut) - A director's cut of Sonic 3D Blast, by Sonic 3D original programmer.
