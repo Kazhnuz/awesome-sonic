@@ -205,6 +205,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Motobug the Badnik in Sonic the Hedgehog](http://info.sonicretro.org/Motobug_the_Badnik_in_Sonic_the_Hedgehog) - Play as a Motobug in Sonic 1, by Polygon Jim.
 
+- [Shadow the Hedgehog in Sonic the Hedgehog](http://info.sonicretro.org/Shadow_the_Hedgehog_in_Sonic_the_Hedgehog) - Play as some famous back hedgehog in Sonic the Hedgehog !
+
 ### Sonic the Hedgehog 2
 
 - [Amy Rose in Sonic the Hedgehog 2](http://info.sonicretro.org/Amy_Rose_in_Sonic_the_Hedgehog_2) - Play as (Classic) Amy in Sonic 2, by E-122 Psi.
