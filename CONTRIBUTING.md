@@ -33,7 +33,7 @@ Ensure your pull request adheres to the following guidelines:
     
     - A modding-based game like SRB2 or Sonic World
     
-    - An hack that change the gameplay of an existing game
+    - An hack that change the gameplay or add content to an existing game
     
     - An abandonned games that already give a big enough experience à la Sonic Fusion
 
