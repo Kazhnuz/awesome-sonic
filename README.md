@@ -15,13 +15,15 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
   - [3D Modern](#3d-modern)
   - [Other playstyles](#other-playstyles)
 - [Hackroms](#hackroms)
-  - [Total Conversion](#total-conversion)
+  - [Total Conversion Hacks](#total-conversion-hacks)
   - [Improvements and New Features](#improvements-and-new-features)
   - [Gameplay Hacks](#gameplay-hacks)
   - [Character Hacks](#characters-hacks)
 - [Mods](#mods)
-  - [Total Conversion](#total-conversion)
+  - [Total Conversion Mods](#total-conversion-mods)
+  - [Improvements and New Features Mods](#improvements-and-new-features-mods)
   - [Levels and Level Packs](#levels-and-level-packs)
+  - [Character Mods](#characters-mods)
 
 # Fangames
 
@@ -95,7 +97,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 # Hackroms
 
-## Total Conversion
+## Total Conversion Hacks
 
 > Hacks that transform the game in a completely or really different games (new levels, graphics, etc).
 
@@ -127,7 +129,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Doctor Robotnik's Creature Capture](http://info.sonicretro.org/Doctor_Robotnik%27s_Creature_Capture) - Play as Doctor Robotnik and try to capture as many creatures as possible, by MarkeyJeser.
 
-## Improvements and New Features
+## Improvements and New Features Hacks
 
 ### Sonic the Hedgehog
 
@@ -234,7 +236,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 > Modificiations of non-emulated games, that usually needs the original games to works
 
-## Total Conversions
+## Total Conversion Mods
 
 ### Sonic Robo Blast 2
 
@@ -248,7 +250,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic Adventure Generations](https://www.moddb.com/mods/sonic-adventure-generations) - Replay level of Adventure with a slighty more Adventure feeling, in Sonic Generations, by JCorvinus, Steven Grayson and S0lv0 (project without news, but with a few fun level to play).
 
-## Improvements and New Features
+## Improvements and New Features Mods
 
 ### Sonic Generations
 
