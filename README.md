@@ -267,21 +267,57 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ### Sonic Robo Blast 2
 
-- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
+- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic
 
-- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
+- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan
 
-- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
+- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors
 
 - [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
 
+### Sonic Adventure DX
+
+- [Prototype Windy Valley](http://sonichacking.org/entry/120) - By ItsEasyActually
+
+## Sonic Adventure 2
+
+- [Emerald Coast](http://sonichacking.org/entry/68) - By MainMemory
+
+### Sonic Heroes
+
+- [Radical Highway](https://www.youtube.com/watch?v=MdcqrSudtmo) - By Shadowth117
+
 ### Sonic Generations
 
-- [EggmanLand Mod](https://www.youtube.com/watch?v=KUdd9nq8DX8) - By N69vid.
+- [EggmanLand Mod](https://www.youtube.com/watch?v=KUdd9nq8DX8) - By N69vid
 
 - [Aquarium Park](https://www.youtube.com/watch?v=IGOv9RRhy9k) - By Hyuga
 
+- [Aquarium Park](http://sonichacking.org/entry/98) - Another one, by Skyth
+
 - [Final Rush](http://lostgenerations.freeforums.net/thread/6/final-level-sonic-world-version) - By Flash Dash
+
+- [Camelot Castle](https://www.youtube.com/watch?v=AHBdZhRzkBE) - By Melpontro
+
+- [Sweet Mountain Act 2](http://sonichacking.org/entry/114) - By JoeyLaw
+
+- [Tropical Resort ReBoosted](http://sonichacking.org/entry/97) - By SKmaric
+
+### Sonic Forces
+
+- [Lost Valley Overclocked](http://sonichacking.org/entry/111) - By Infinite Force
+
+- [Mortar Canyon Remastered](http://sonichacking.org/entry/113) - By Infinite Force
+
+- [Network Terminal Overclocked](http://sonichacking.org/entry/112) - By Infinite Force
+
+- [Real Infinite Boss](http://sonichacking.org/entry/110) - By Infinite Force
+
+- [Glyphic Canyon](http://sonichacking.org/entry/89) - By Knuxfan24
+
+- [Lava Shelter](http://sonichacking.org/entry/84) - By Knuxfan24
+
+- [Weapon Bed](https://www.youtube.com/watch?v=pKnlsS6sSFQ) - By ĐeäTh
 
 ## Characters Mods
 
