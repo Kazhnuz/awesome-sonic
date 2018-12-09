@@ -139,6 +139,9 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic 2 Long Version](http://info.sonicretro.org/Sonic_2_Long_Version) - Sonic 2 extended to integrate the unused levels, by Sonic Hachelle-Bee.
 
+- [Drop Dash in Sonic 2](http://sonichacking.org/entry/69) - Implement Drop Dash in Sonic 2, by MainMemory
+
+
 ### Sonic the Hedgehog CD
 
 - [Sonic CD++](http://info.sonicretro.org/Sonic_CD_Plus_Plus) - A hack that add jump dash/homming attack and Sonic the Hedgehog 2-style Spin Dash to Sonic CD, by qiuu and snkenjoi
@@ -152,6 +155,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Sonic 3 Complete](http://info.sonicretro.org/Sonic_3_Complete) - The definitive version of Sonic 3 and Knuckles, with a lot of new features, by Tiddles, Neo, That One Jig, ValleyBell, flamewing and Hayate.
 
 - [Sonic 3 Hadoken](http://www.hacking-cult.org/?hacks/61/x) - Sonic 3&K. With the hadoken.
+
+- [Drop Dash in Sonic 3&K](http://sonichacking.org/entry/78) - Implement Drop Dash in Sonic 3&K, by MainMemory
 
 ### Sonic 3D Blast
 
