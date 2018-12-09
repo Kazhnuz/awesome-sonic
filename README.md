@@ -319,6 +319,10 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Real Infinite Boss](http://sonichacking.org/entry/110) - By Infinite Force.
 
+- [Grand Metropolis](https://gamebanana.com/maps/202631) - A two-acts port of Grand Metropolis, by Infinite Force.
+
+- [Westopolis](https://gamebanana.com/maps/201020) - By Knuxfan24.
+
 - [Glyphic Canyon](http://sonichacking.org/entry/89) - By Knuxfan24.
 
 - [Lava Shelter](http://sonichacking.org/entry/84) - By Knuxfan24.
