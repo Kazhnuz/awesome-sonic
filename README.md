@@ -263,6 +263,10 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Cell Shading](https://www.youtube.com/watch?v=UNso3wn7T0w) - By Dario.
 
+### Sonic Forces
+
+- [Classic Sonic Improvement](http://sonichacking.org/entry/91) - Physics fixes for Classic Sonic, by Showin.
+
 ## Levels and Level packs
 
 ### Sonic Robo Blast 2
@@ -282,6 +286,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 ### Sonic Adventure 2
 
 - [Emerald Coast](http://sonichacking.org/entry/68) - By MainMemory.
+
+- [Dreamcast Chao Gardens](http://sonichacking.org/entry/104) - By Exant64.
 
 ### Sonic Heroes
 
