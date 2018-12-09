@@ -113,13 +113,13 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 > Hacks with few levels
 
-- [Pana Der Hejhog](https://info.sonicretro.org/Pana_Der_Hejhog) - Small but detailled romhack, by MarkeyJester
+- [Pana Der Hejhog](https://info.sonicretro.org/Pana_Der_Hejhog) - Small but detailled romhack, by MarkeyJester.
 
-- [Sonic : The Next Level](https://forums.sonicretro.org/index.php?showtopic=34835) - Have you ever played Sonic The Hedgehog on a different planet?! by MarkeyJester
+- [Sonic : The Next Level](https://forums.sonicretro.org/index.php?showtopic=34835) - Have you ever played Sonic The Hedgehog on a different planet?! by MarkeyJester.
 
 - [Sonic Boom](https://info.sonicretro.org/Sonic_Boom_(hack)) - Short but intense modern-based hackrom, by the SÆGA collective.
 
-- [Mr. Cat's 16 day challenge!](http://sonicresearch.org/community/index.php?threads/mr-cats-16-day-challenge-released.5029/) - A small hack created in 16 days
+- [Mr. Cat's 16 day challenge!](http://sonicresearch.org/community/index.php?threads/mr-cats-16-day-challenge-released.5029/) - A small hack created in 16 days.
 
 ### Different playstyles
 
@@ -133,18 +133,18 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ### Sonic the Hedgehog
 
-- [Sonic the Hedgehog 1 @ SAGE 2010](http://info.sonicretro.org/Sonic_the_Hedgehog_1_@_SAGE_2010) - An improvement to Sonic 1, with scoring in mind, by Cinossu
+- [Sonic the Hedgehog 1 @ SAGE 2010](http://info.sonicretro.org/Sonic_the_Hedgehog_1_@_SAGE_2010) - An improvement to Sonic 1, with scoring in mind, by Cinossu.
 
 ### Sonic the Hedgehog 2
 
 - [Sonic 2 Long Version](http://info.sonicretro.org/Sonic_2_Long_Version) - Sonic 2 extended to integrate the unused levels, by Sonic Hachelle-Bee.
 
-- [Drop Dash in Sonic 2](http://sonichacking.org/entry/69) - Implement Drop Dash in Sonic 2, by MainMemory
+- [Drop Dash in Sonic 2](http://sonichacking.org/entry/69) - Implement Drop Dash in Sonic 2, by MainMemory.
 
 
 ### Sonic the Hedgehog CD
 
-- [Sonic CD++](http://info.sonicretro.org/Sonic_CD_Plus_Plus) - A hack that add jump dash/homming attack and Sonic the Hedgehog 2-style Spin Dash to Sonic CD, by qiuu and snkenjoi
+- [Sonic CD++](http://info.sonicretro.org/Sonic_CD_Plus_Plus) - A hack that add jump dash/homming attack and Sonic the Hedgehog 2-style Spin Dash to Sonic CD, by qiuu and snkenjoi.
 
 ### Sonic the Hedgehog 1 and 2
 
@@ -156,7 +156,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [Sonic 3 Hadoken](http://www.hacking-cult.org/?hacks/61/x) - Sonic 3&K. With the hadoken.
 
-- [Drop Dash in Sonic 3&K](http://sonichacking.org/entry/78) - Implement Drop Dash in Sonic 3&K, by MainMemory
+- [Drop Dash in Sonic 3&K](http://sonichacking.org/entry/78) - Implement Drop Dash in Sonic 3&K, by MainMemory.
 
 ### Sonic 3D Blast
 
@@ -190,7 +190,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ### Sonic the Hedgehog 1
 
-- [Tails in Sonic the Hedgehog](http://info.sonicretro.org/Tails_in_Sonic_the_Hedgehog) - Play as Tails in Sonic 1, by drx (v1) and Puto (v2)
+- [Tails in Sonic the Hedgehog](http://info.sonicretro.org/Tails_in_Sonic_the_Hedgehog) - Play as Tails in Sonic 1, by drx (v1) and Puto (v2).
 
 - [Knuckles the Echidna in Sonic the Hedgehog](http://info.sonicretro.org/Knuckles_the_Echidna_in_Sonic_the_Hedgehog) - Play as Knuckles in Sonic 1, by Stealth.
 
@@ -251,7 +251,7 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 - [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
 
-- [SRB2 Kart](https://mb.srb2.org/showthread.php?t=43708) - SRB2 Karting mods, by the Kart Krew
+- [SRB2 Kart](https://mb.srb2.org/showthread.php?t=43708) - SRB2 Karting mods, by the Kart Krew.
 
 ### Sonic Generations
 
@@ -267,57 +267,57 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 
 ### Sonic Robo Blast 2
 
-- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic
+- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
 
-- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan
+- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
 
-- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors
+- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
 
 - [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
 
 ### Sonic Adventure DX
 
-- [Prototype Windy Valley](http://sonichacking.org/entry/120) - By ItsEasyActually
+- [Prototype Windy Valley](http://sonichacking.org/entry/120) - By ItsEasyActually.
 
-## Sonic Adventure 2
+### Sonic Adventure 2
 
-- [Emerald Coast](http://sonichacking.org/entry/68) - By MainMemory
+- [Emerald Coast](http://sonichacking.org/entry/68) - By MainMemory.
 
 ### Sonic Heroes
 
-- [Radical Highway](https://www.youtube.com/watch?v=MdcqrSudtmo) - By Shadowth117
+- [Radical Highway](https://www.youtube.com/watch?v=MdcqrSudtmo) - By Shadowth117.
 
 ### Sonic Generations
 
-- [EggmanLand Mod](https://www.youtube.com/watch?v=KUdd9nq8DX8) - By N69vid
+- [EggmanLand Mod](https://www.youtube.com/watch?v=KUdd9nq8DX8) - By N69vid.
 
-- [Aquarium Park](https://www.youtube.com/watch?v=IGOv9RRhy9k) - By Hyuga
+- [Aquarium Park](https://www.youtube.com/watch?v=IGOv9RRhy9k) - By Hyuga.
 
-- [Aquarium Park](http://sonichacking.org/entry/98) - Another one, by Skyth
+- [Aquarium Park](http://sonichacking.org/entry/98) - Another one, by Skyth.
 
-- [Final Rush](http://lostgenerations.freeforums.net/thread/6/final-level-sonic-world-version) - By Flash Dash
+- [Final Rush](http://lostgenerations.freeforums.net/thread/6/final-level-sonic-world-version) - By Flash Dash.
 
-- [Camelot Castle](https://www.youtube.com/watch?v=AHBdZhRzkBE) - By Melpontro
+- [Camelot Castle](https://www.youtube.com/watch?v=AHBdZhRzkBE) - By Melpontro.
 
-- [Sweet Mountain Act 2](http://sonichacking.org/entry/114) - By JoeyLaw
+- [Sweet Mountain Act 2](http://sonichacking.org/entry/114) - By JoeyLaw.
 
-- [Tropical Resort ReBoosted](http://sonichacking.org/entry/97) - By SKmaric
+- [Tropical Resort ReBoosted](http://sonichacking.org/entry/97) - By SKmaric.
 
 ### Sonic Forces
 
-- [Lost Valley Overclocked](http://sonichacking.org/entry/111) - By Infinite Force
+- [Lost Valley Overclocked](http://sonichacking.org/entry/111) - By Infinite Force.
 
-- [Mortar Canyon Remastered](http://sonichacking.org/entry/113) - By Infinite Force
+- [Mortar Canyon Remastered](http://sonichacking.org/entry/113) - By Infinite Force.
 
-- [Network Terminal Overclocked](http://sonichacking.org/entry/112) - By Infinite Force
+- [Network Terminal Overclocked](http://sonichacking.org/entry/112) - By Infinite Force.
 
-- [Real Infinite Boss](http://sonichacking.org/entry/110) - By Infinite Force
+- [Real Infinite Boss](http://sonichacking.org/entry/110) - By Infinite Force.
 
-- [Glyphic Canyon](http://sonichacking.org/entry/89) - By Knuxfan24
+- [Glyphic Canyon](http://sonichacking.org/entry/89) - By Knuxfan24.
 
-- [Lava Shelter](http://sonichacking.org/entry/84) - By Knuxfan24
+- [Lava Shelter](http://sonichacking.org/entry/84) - By Knuxfan24.
 
-- [Weapon Bed](https://www.youtube.com/watch?v=pKnlsS6sSFQ) - By ĐeäTh
+- [Weapon Bed](https://www.youtube.com/watch?v=pKnlsS6sSFQ) - By ĐeäTh.
 
 ## Characters Mods
 
