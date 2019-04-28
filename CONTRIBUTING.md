@@ -25,18 +25,18 @@ Ensure your pull request adheres to the following guidelines:
 
 - Please check that your contribution follows the following requirements :
 
-  - It's a fangame or an hackrom based on the Sonic the Hedgehog Franchise. Hacks that add character from another game into a Sonic game are accepted.
+  - It's a creation based on the Sonic the Hedgehog Franchise. Hacks that add character from another franchise into a Sonic game are accepted.
   
-  - The game you want to submit is either :
+  - The creation must be a creation that is complete enough to be a good experience. It can be either a small project (one-level hack or fangame, one-issue comic-book) or epic lenght content.
+  
+  - Some exceptions to this rules includes :
+  
+    - Abandonned games that already give a big enough experience à la Sonic Fusion
     
-    - A **complete** game (everything between one-level game and complete epic fangame are accepted)
+    - Ongoing series of comics, that won't be ever "finished" by any standard. For one to be proposed, it must have at least one issue.
     
-    - A modding-based game like SRB2 or Sonic World
-    
-    - An hack that change the gameplay or add content to an existing game
-    
-    - An abandonned games that already give a big enough experience à la Sonic Fusion
-
+    - Modding-based game like SRB2 or Sonic World
+  
 - Please follow the classification file (classification.md). If it doesn't fit, please add an issue with the "categories" label.
 
 Thank you for your suggestions!
