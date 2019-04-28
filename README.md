@@ -1,8 +1,9 @@
-# awesome-sonicfangames
+# awesome-sonic
 
-> A curated list of awesome fangames and hacks based on the Sonic the Hedgehog franchise.
+> A curated list of awesome fancreation based on the Sonic the Hedgehog franchise.
 
-Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to find our way inside all the fan-created games that exist. This list aim to make it easier to find what you want !
+The Sonic community have created a lot of awesome content for years. Despite that, many people don't always know that part of the fandom. The goal of this list is to make it easier to discover all those creation and fun stuff.
+
 
 > **This list is a WIP and still very incomplete**
 
