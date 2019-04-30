@@ -9,6 +9,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 # Content
 
+- [Webcomics](#webcomics)
+  - [Fan-continuations](#fan-continuations)
 - [Fangames](#fangames)
   - [Genesis-like](#genesis-like)
   - [Advance-like](#advance-like)
@@ -25,6 +27,16 @@ The Sonic community have created a lot of awesome content for years. Despite tha
   - [Improvements and New Features Mods](#improvements-and-new-features-mods)
   - [Levels and Level Packs](#levels-and-level-packs)
   - [Character Mods](#characters-mods)
+
+# Webcomics
+
+## Fan-continuations
+
+- [ArchieSonic Online](http://archiesoniconline.com/) - A continuation of the first continuity of Archie Sonic.
+
+- [Sonic the Comic Online](http://www.stconline.co.uk/) - A continuation of Sonic the Comic online.
+
+- [Sonic SatAM S3ason](http://www.sonicsatam.com/sea3on/) - A continuation of Sonic SatAM, in webcomic form.
 
 # Fangames
 
