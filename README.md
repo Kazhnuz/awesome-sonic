@@ -9,8 +9,6 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 # Content
 
-- [Webcomics](#webcomics)
-  - [Fan-continuations](#fan-continuations)
 - [Fangames](#fangames)
   - [Genesis-like](#genesis-like)
   - [Advance-like](#advance-like)
@@ -27,16 +25,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
   - [Improvements and New Features Mods](#improvements-and-new-features-mods)
   - [Levels and Level Packs](#levels-and-level-packs)
   - [Character Mods](#characters-mods)
-
-# Webcomics
-
-## Fan-continuations
-
-- [ArchieSonic Online](http://archiesoniconline.com/) - A continuation of the first continuity of Archie Sonic.
-
-- [Sonic the Comic Online](http://www.stconline.co.uk/) - A continuation of Sonic the Comic online.
-
-- [Sonic SatAM S3ason](http://www.sonicsatam.com/sea3on/) - A continuation of Sonic SatAM, in webcomic form.
+- [Webcomics](#webcomics)
+  - [Fan-continuations](#fan-continuations)
 
 # Fangames
 
@@ -350,6 +340,25 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Real Tails Mod](https://www.moddb.com/games/sonic-generations/downloads/real-tails-mod-ver20) - Play Tails in Sonic Generations, by UltimateDarkman.
 
+# Webcomics
+
+## Fan-continuations
+
+- [ArchieSonic Online](http://archiesoniconline.com/) - A continuation of the first continuity of Archie Sonic.
+
+- [Sonic the Comic Online](http://www.stconline.co.uk/) - A continuation of Sonic the Comic online.
+
+- [Sonic SatAM S3ason](http://www.sonicsatam.com/sea3on/) - A continuation of Sonic SatAM, in webcomic form.
+
+## Ongoing comics
+
+- [Sonic Legacy](https://tapas.io/series/Sonic-Legacy) - A comics serie by Sonic Paradoxe.
+
+- [Gosth of the Future](https://www.deviantart.com/evanstanley/gallery/) - A Silver-focused story, by Sonic Comic artist Evan Stanley.
+
+## Game Adaptation
+
+- [Sonic Adventure 2](https://board.sonicstadium.org/topic/20105-sonic-adventure-2-comic/) - An adaptation of the start of Sonic Adventure 2 in comics form (only one issue finished).
 
 # Videos
 
