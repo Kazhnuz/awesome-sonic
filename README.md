@@ -349,3 +349,24 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Super Sonic Generations](https://www.moddb.com/mods/super-sonic-generations/news/super-sonic-generations-2016-edition) - Play Sonic Generations as Super Sonic and transform into Hyper Form, by JoeTE.
 
 - [Real Tails Mod](https://www.moddb.com/games/sonic-generations/downloads/real-tails-mod-ver20) - Play Tails in Sonic Generations, by UltimateDarkman.
+
+
+# Videos
+
+## Fan-movies
+
+- [Sonic](https://www.youtube.com/watch?v=JtCtQpclpY8) - A live-action/CGI fan-movie, by BlueCore Studios
+
+- [Sonic Prologue](https://www.youtube.com/watch?v=9C1ryUfXnR4) - An animated prequel to Sonic 2, by NECOMIX and Chris Wilcots Animation.
+
+## Anime-like
+
+- [Nazo Unleashed DX](https://www.youtube.com/watch?v=g-etGCr7SM4) - A fan-anime based on the "Nazo" image from Sonic X.
+
+## Humors
+
+- [Sonic Shorts](https://www.youtube.com/playlist?list=PLPefo9JATa-uoXMO4mf4uZTBBCNfrvh-C) - A serie of humoristic mini-video, by the Sonic Paradoxe collective
+
+- [Sonic Seconds](https://www.youtube.com/playlist?list=PLPefo9JATa-tSp8mlSb2Vvfn-TtpUUEo-) - An humoristic serie of short(er) gag, by the Sonic Paradoxe collective
+
+- [Seaside Denied](https://www.youtube.com/watch?v=veLTMMiDjh8) and [Metropolis Mayhem](https://www.youtube.com/watch?v=bSj7yRyPWaQ) - A parody of Sonic Heroes, by the Sonic Paradoxe collective.
