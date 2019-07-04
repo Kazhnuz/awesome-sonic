@@ -39,7 +39,7 @@ Ensure your pull request adheres to the following guidelines:
   
 - Please follow the classification file (classification.md). If it doesn't fit, please add an issue with the "categories" label.
 
-- Please don't add or propose your own projects on the list. The reason is that because when someone give his own project, it makes the review more complicated, because it add the fear to deceive the people doing the proposition :/ We really don't want to deceive anybody. Also, don't review your own project if you are a maintainer of the list. 
+- Please don't add or propose your own projects on the list. The reason is that because when someone give his own project, it makes the review more complicated, because it add the fear to upset the people doing the proposition :/ We really don't want to upset anybody. Also, don't review your own project if you are a maintainer of the list. 
 
 Thank you for your suggestions!
 
