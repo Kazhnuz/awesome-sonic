@@ -28,9 +28,9 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Webcomics](#webcomics)
   - [Fan-continuations](#fan-continuations)
 - [Videos](#videos)
-  - [Movies](#fan-movies)
-  - [Anime](#anime-like)
-  - [Humorous](#humors)
+  - [Movies](#movies)
+  - [Anime](#anime)
+  - [Humorous](#humorous)
 
 # Fangames
 
