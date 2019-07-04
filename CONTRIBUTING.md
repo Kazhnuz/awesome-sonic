@@ -39,14 +39,11 @@ Ensure your pull request adheres to the following guidelines:
   
 - Please follow the classification file (classification.md). If it doesn't fit, please add an issue with the "categories" label.
 
+- Please don't add or propose your own projects on the list. The reason is that because when someone give his own project, it makes the review more complicated, because it add the fear to deceive the people doing the proposition :/ We really don't want to deceive anybody. Also, don't review your own project if you are a maintainer of the list. 
+
 Thank you for your suggestions!
 
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
