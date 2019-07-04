@@ -27,6 +27,10 @@ The Sonic community have created a lot of awesome content for years. Despite tha
   - [Character Mods](#characters-mods)
 - [Webcomics](#webcomics)
   - [Fan-continuations](#fan-continuations)
+- [Videos](#videos)
+  - [Fan-movies](#fan-movies)
+  - [Anime-like](#anime-like)
+  - [Humors](#humors)
 
 # Fangames
 
