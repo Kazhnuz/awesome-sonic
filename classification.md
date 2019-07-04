@@ -1,6 +1,6 @@
 # awesome-sonic classification guidelines
 
-> Games and Games categories are classified by (first) release date.
+> Content are classified by (first) release date.
 
 > When a game use a fusion of several game, make a category for that after both games.
 
