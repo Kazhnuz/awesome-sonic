@@ -28,9 +28,9 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Webcomics](#webcomics)
   - [Fan-continuations](#fan-continuations)
 - [Videos](#videos)
-  - [Fan-movies](#fan-movies)
-  - [Anime-like](#anime-like)
-  - [Humors](#humors)
+  - [Movies](#fan-movies)
+  - [Anime](#anime-like)
+  - [Humorous](#humors)
 
 # Fangames
 
@@ -366,17 +366,17 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 # Videos
 
-## Fan-movies
+## Movies
 
 - [Sonic](https://www.youtube.com/watch?v=JtCtQpclpY8) - A live-action/CGI fan-movie, by BlueCore Studios
 
 - [Sonic Prologue](https://www.youtube.com/watch?v=9C1ryUfXnR4) - An animated prequel to Sonic 2, by NECOMIX and Chris Wilcots Animation.
 
-## Anime-like
+## Anime
 
 - [Nazo Unleashed DX](https://www.youtube.com/watch?v=g-etGCr7SM4) - A fan-anime based on the "Nazo" image from Sonic X.
 
-## Humors
+## Humorous
 
 - [Sonic Shorts](https://www.youtube.com/playlist?list=PLPefo9JATa-uoXMO4mf4uZTBBCNfrvh-C) - A serie of humoristic mini-video, by the Sonic Paradoxe collective
 
