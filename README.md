@@ -1,8 +1,9 @@
-# awesome-sonicfangames
+# awesome-sonic
 
-> A curated list of awesome fangames and hacks based on the Sonic the Hedgehog franchise.
+> A curated list of awesome fancreation based on the Sonic the Hedgehog franchise.
 
-Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to find our way inside all the fan-created games that exist. This list aim to make it easier to find what you want !
+The Sonic community have created a lot of awesome content for years. Despite that, many people don't always know that part of the fandom. The goal of this list is to make it easier to discover all those creation and fun stuff.
+
 
 > **This list is a WIP and still very incomplete**
 
@@ -24,6 +25,8 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
   - [Improvements and New Features Mods](#improvements-and-new-features-mods)
   - [Levels and Level Packs](#levels-and-level-packs)
   - [Character Mods](#characters-mods)
+- [Webcomics](#webcomics)
+  - [Fan-continuations](#fan-continuations)
 
 # Fangames
 
@@ -336,3 +339,43 @@ Sonic the Hedgehog is full of awesome fangames, but it can be a bit difficult to
 - [Super Sonic Generations](https://www.moddb.com/mods/super-sonic-generations/news/super-sonic-generations-2016-edition) - Play Sonic Generations as Super Sonic and transform into Hyper Form, by JoeTE.
 
 - [Real Tails Mod](https://www.moddb.com/games/sonic-generations/downloads/real-tails-mod-ver20) - Play Tails in Sonic Generations, by UltimateDarkman.
+
+# Webcomics
+
+## Fan-continuations
+
+- [ArchieSonic Online](http://archiesoniconline.com/) - A continuation of the first continuity of Archie Sonic.
+
+- [Sonic the Comic Online](http://www.stconline.co.uk/) - A continuation of Sonic the Comic online.
+
+- [Sonic SatAM S3ason](http://www.sonicsatam.com/sea3on/) - A continuation of Sonic SatAM, in webcomic form.
+
+## Ongoing comics
+
+- [Sonic Legacy](https://tapas.io/series/Sonic-Legacy) - A comics serie by Sonic Paradoxe.
+
+- [Gosth of the Future](https://www.deviantart.com/evanstanley/gallery/) - A Silver-focused story, by Sonic Comic artist Evan Stanley.
+
+## Game Adaptation
+
+- [Sonic Adventure 2](https://board.sonicstadium.org/topic/20105-sonic-adventure-2-comic/) - An adaptation of the start of Sonic Adventure 2 in comics form (only one issue finished).
+
+# Videos
+
+## Fan-movies
+
+- [Sonic](https://www.youtube.com/watch?v=JtCtQpclpY8) - A live-action/CGI fan-movie, by BlueCore Studios
+
+- [Sonic Prologue](https://www.youtube.com/watch?v=9C1ryUfXnR4) - An animated prequel to Sonic 2, by NECOMIX and Chris Wilcots Animation.
+
+## Anime-like
+
+- [Nazo Unleashed DX](https://www.youtube.com/watch?v=g-etGCr7SM4) - A fan-anime based on the "Nazo" image from Sonic X.
+
+## Humors
+
+- [Sonic Shorts](https://www.youtube.com/playlist?list=PLPefo9JATa-uoXMO4mf4uZTBBCNfrvh-C) - A serie of humoristic mini-video, by the Sonic Paradoxe collective
+
+- [Sonic Seconds](https://www.youtube.com/playlist?list=PLPefo9JATa-tSp8mlSb2Vvfn-TtpUUEo-) - An humoristic serie of short(er) gag, by the Sonic Paradoxe collective
+
+- [Seaside Denied](https://www.youtube.com/watch?v=veLTMMiDjh8) and [Metropolis Mayhem](https://www.youtube.com/watch?v=bSj7yRyPWaQ) - A parody of Sonic Heroes, by the Sonic Paradoxe collective.
