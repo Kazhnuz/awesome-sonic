@@ -1,4 +1,4 @@
-# awesome-sonicfangames classification guidelines
+# awesome-sonic classification guidelines
 
 > Games and Games categories are classified by (first) release date.
 
@@ -15,7 +15,7 @@
   - 3D Other
   - Other playstyle (All games with non-standard gameplay)
     - Chao
-    - Meme and Humor
+    - Humorous
     - Alternate style
 
 - Hackroms
@@ -38,3 +38,16 @@
     - (add a category by game)
   - Other
     - (add a category by game)
+    
+ - Webcomics
+  - Fan-continations (project that aim to continue in comic-book form an existing Sonic continuity)
+  - Multiple-issues
+  - One-shot
+  - Humorous
+
+- Videos
+  - Fan-continuations (project that aim to continue in comic-book form an existing Sonic continuity)
+  - Movies (project that act like a feature or short lenght movie, with a complete story told in one video)
+  - Anime (project that are inspired by japanese animation)
+  - Cartoon (project that are inspired by traditionnal american cartoon)
+  - Humorous
