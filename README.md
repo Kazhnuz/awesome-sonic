@@ -72,6 +72,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 ## 3D Modern
 
+- [Sonic Souls](https://www.youtube.com/watch?v=b6KdeXxMOrA) - Sonic GDK-made 3D game.
+
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
 
 ### Openworld Fangames
