@@ -217,11 +217,17 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Mighty the Armadillo in Sonic the Hedgehog](http://info.sonicretro.org/Mighty_the_Armadillo_in_Sonic_the_Hedgehog) - Play as Mighty in Sonic 1, by E-122 Psi.
 
+- [Ray in Sonic the Hedgehog](https://www.sonichacking.org/entries/expo2019/65) - Play as Ray, with is Mania skills, by Iso Kilo.
+
 - [Somari the Adventurer](http://info.sonicretro.org/Somari_the_Adventurer) - Play as Mario in Sonic 1, by Lone Devil.
 
 - [Motobug the Badnik in Sonic the Hedgehog](http://info.sonicretro.org/Motobug_the_Badnik_in_Sonic_the_Hedgehog) - Play as a Motobug in Sonic 1, by Polygon Jim.
 
-- [Shadow the Hedgehog in Sonic the Hedgehog](http://info.sonicretro.org/Shadow_the_Hedgehog_in_Sonic_the_Hedgehog) - Play as some famous back hedgehog in Sonic the Hedgehog !
+- [Shadow the Hedgehog in Sonic the Hedgehog](http://info.sonicretro.org/Shadow_the_Hedgehog_in_Sonic_the_Hedgehog) - Play as some famous back hedgehog in Sonic the Hedgehog, by Falavia ! (Use modern skillset)
+
+- [(Another) Shadow the Hedgehog in Sonic the Hedgehog](https://sonichacking.org/entries/contest2019/22) - Another (unrelated) Shadow in Sonic 1 hack, by AsuharaMoon ! (Use mania-style skillset)
+
+- [Rouge the Bat in Sonic the Hedgehog](https://www.sonichacking.org/entries/expo2019/24) - Rouge in Sonic 1, by AsuharaMoon.
 
 ### Sonic the Hedgehog 2
 
