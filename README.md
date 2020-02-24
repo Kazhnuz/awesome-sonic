@@ -118,6 +118,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic 2 Retro Remix](http://info.sonicretro.org/Sonic_2_Retro_Remix) - A Sonic 2D hacks that require exploration to progress, by Thorn and DNXDelta.
 
+- [Sonic 2 Advanced Edit](http://info.sonicretro.org/Sonic_2:_Advanced_Edit) - A complete hack of Sonic 2, transforming it in a brand new game, by rika_chou and Team Advanced Edit
+
 ### Small games
 
 > Hacks with few levels
