@@ -30,14 +30,11 @@
     - (add a category by game)
 
 - Mods
-  - Total Conversion
-    - (add a category by game : we have this category here because without it need the base game here)
-  - Levels and Level Packs
-    - (add a category by game)
-  - Characters Hack
-    - (add a category by game)
-  - Other
-    - (add a category by game)
+  - *A category by game*
+    - Total Conversion
+    - Levels and Level Packs
+    - Characters Hack
+    - Other
     
  - Webcomics
   - Fan-continations (project that aim to continue in comic-book form an existing Sonic continuity)

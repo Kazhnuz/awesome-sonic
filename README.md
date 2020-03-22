@@ -21,10 +21,11 @@ The Sonic community have created a lot of awesome content for years. Despite tha
   - [Gameplay Hacks](#gameplay-hacks)
   - [Character Hacks](#characters-hacks)
 - [Mods](#mods)
-  - [Total Conversion Mods](#total-conversion-mods)
-  - [Improvements and New Features Mods](#improvements-and-new-features-mods)
-  - [Levels and Level Packs](#levels-and-level-packs)
-  - [Character Mods](#characters-mods)
+  - [Sonic Adventure](#sonic-adventure)
+  - [Sonic Adventure 2](#sonic-adventure-2)
+  - [Sonic Heroes](#sonic-heroes)
+  - [Sonic Generations](#sonic-generations)
+  - [Sonic Forces](#sonic-forces)
 - [Webcomics](#webcomics)
   - [Fan-continuations](#fan-continuations)
 - [Videos](#videos)
@@ -69,6 +70,10 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Sonic Hexacide](https://phpbb.mfgg.net/viewtopic.php?f=8&t=17186) - A mixt between Xtreme and Lost World, by DJ Coco.
 
 - [Sonic Robo Blast 2](http://srb2.org/) - Doom-based 3D fangame, by Sonic Team Junior.
+
+- [SRB2 Top Down](https://mb.srb2.org/showthread.php?t=42317) - Top Down SRB2 dérivative game, by the Kart Krew.
+
+- [SRB2 Kart](https://mb.srb2.org/showthread.php?t=43708) - SRB2 Karting dérivative game, by the Kart Krew.
 
 ## 3D Modern
 
@@ -258,59 +263,37 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 > Modificiations of non-emulated games, that usually needs the original games to works
 
-## Total Conversion Mods
+## Sonic Adventure
 
-### Sonic Robo Blast 2
-
-- [SRB2 Top Down](https://mb.srb2.org/showthread.php?t=42317) - Top Down SRB2 Mod, by the Kart Krew.
-
-- [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
-
-- [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
-
-- [SRB2 Kart](https://mb.srb2.org/showthread.php?t=43708) - SRB2 Karting mods, by the Kart Krew.
-
-### Sonic Generations
-
-- [Sonic Adventure Generations](https://www.moddb.com/mods/sonic-adventure-generations) - Replay level of Adventure with a slighty more Adventure feeling, in Sonic Generations, by JCorvinus, Steven Grayson and S0lv0 (project without news, but with a few fun level to play).
-
-## Improvements and New Features Mods
-
-### Sonic Generations
-
-- [Cell Shading](https://www.youtube.com/watch?v=UNso3wn7T0w) - By Dario.
-
-### Sonic Forces
-
-- [Classic Sonic Improvement](http://sonichacking.org/entry/91) - Physics fixes for Classic Sonic, by Showin.
-
-## Levels and Level packs
-
-### Sonic Robo Blast 2
-
-- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
-
-- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
-
-- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
-
-- [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
-
-### Sonic Adventure DX
+### Levels and Level packs
 
 - [Prototype Windy Valley](http://sonichacking.org/entry/120) - By ItsEasyActually.
 
-### Sonic Adventure 2
+## Sonic Adventure 2
+
+### Levels and Level packs
 
 - [Emerald Coast](http://sonichacking.org/entry/68) - By MainMemory.
 
 - [Dreamcast Chao Gardens](http://sonichacking.org/entry/104) - By Exant64.
 
-### Sonic Heroes
+## Sonic Heroes
+
+### Levels and Level packs
 
 - [Radical Highway](https://www.youtube.com/watch?v=MdcqrSudtmo) - By Shadowth117.
 
-### Sonic Generations
+## Sonic Generations
+
+### Total Conversion Mods
+
+- [Sonic Adventure Generations](https://www.moddb.com/mods/sonic-adventure-generations) - Replay level of Adventure with a slighty more Adventure feeling, in Sonic Generations, by JCorvinus, Steven Grayson and S0lv0 (project without news, but with a few fun level to play).
+
+### Improvements and New Features Mods
+
+- [Cell Shading](https://www.youtube.com/watch?v=UNso3wn7T0w) - By Dario.
+
+### Levels and Level packs
 
 - [EggmanLand Mod](https://www.youtube.com/watch?v=KUdd9nq8DX8) - By N69vid.
 
@@ -326,7 +309,19 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Tropical Resort ReBoosted](http://sonichacking.org/entry/97) - By SKmaric.
 
-### Sonic Forces
+### Characters Mods
+
+- [Super Sonic Generations](https://www.moddb.com/mods/super-sonic-generations/news/super-sonic-generations-2016-edition) - Play Sonic Generations as Super Sonic and transform into Hyper Form, by JoeTE.
+
+- [Real Tails Mod](https://www.moddb.com/games/sonic-generations/downloads/real-tails-mod-ver20) - Play Tails in Sonic Generations, by UltimateDarkman.
+
+## Sonic Forces
+
+### Improvements and New Features Mods
+
+- [Classic Sonic Improvement](http://sonichacking.org/entry/91) - Physics fixes for Classic Sonic, by Showin.
+
+### Levels and Level packs
 
 - [Lost Valley Overclocked](http://sonichacking.org/entry/111) - By Infinite Force.
 
@@ -346,13 +341,23 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Weapon Bed](https://www.youtube.com/watch?v=pKnlsS6sSFQ) - By ĐeäTh.
 
-## Characters Mods
+## Sonic Robo Blast 2
 
-### Sonic Generations
+### Total Conversion Mods
 
-- [Super Sonic Generations](https://www.moddb.com/mods/super-sonic-generations/news/super-sonic-generations-2016-edition) - Play Sonic Generations as Super Sonic and transform into Hyper Form, by JoeTE.
+- [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
 
-- [Real Tails Mod](https://www.moddb.com/games/sonic-generations/downloads/real-tails-mod-ver20) - Play Tails in Sonic Generations, by UltimateDarkman.
+- [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
+
+### Levels and Level packs
+
+- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
+
+- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
+
+- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
+
+- [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
 
 # Webcomics
 
