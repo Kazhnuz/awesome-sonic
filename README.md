@@ -33,6 +33,7 @@ The Sonic community have created a lot of awesome content for years. Despite tha
   - [Movies](#movies)
   - [Anime](#anime)
   - [Humorous](#humorous)
+- [Music](#music)
 
 # Fangames
 
@@ -435,3 +436,29 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Sonic Seconds](https://www.youtube.com/playlist?list=PLPefo9JATa-tSp8mlSb2Vvfn-TtpUUEo-) - An humoristic serie of short(er) gag, by the Sonic Paradoxe collective
 
 - [Seaside Denied](https://www.youtube.com/watch?v=veLTMMiDjh8) and [Metropolis Mayhem](https://www.youtube.com/watch?v=bSj7yRyPWaQ) - A parody of Sonic Heroes, by the Sonic Paradoxe collective.
+
+# Music
+
+> Note : This list only contain full albums (cover or original) and original music (be it be lyricization or brand new music). There are so much good cover than I can't really add them all :)
+
+## Remix/Cover albums
+
+- [S&K Project Chaos](https://ocremix.org/album/9/sonic-3-and-knuckles-project-chaos)
+
+- [Sonic CD : Temporal Duality](https://soniccd.ocremix.org/)
+
+- [Sonic Stadium Music Album 2011](https://projects.sonicstadium.org/music-album-2011/)
+
+- [Sonic Stadium Music Adventure 2012](https://projects.sonicstadium.org/music-album-2012/)
+
+- [The Sound of TSS '14](https://projects.sonicstadium.org/sound-of-tss-2014/)
+
+- [The Sound of TSS '15](https://projects.sonicstadium.org/sound-of-tss-2015/)
+
+## Original Music Albums
+
+- [Sonic BtS OST](https://www.youtube.com/channel/UCTHhYeeRUKWZ90Z7ngwjgFg?disable_polymer=1)
+
+- [Sonic AtS OST](https://www.youtube.com/user/SonicATS13?disable_polymer=1)
+
+- [Dual Ages : Time Twisted OST](https://www.youtube.com/playlist?list=PLKYFFo0H3JcxYdJy3MIdBZt4x3XukxXCt&disable_polymer=1)
