@@ -26,6 +26,7 @@ The Sonic community have created a lot of awesome content for years. Despite tha
   - [Sonic Heroes](#sonic-heroes)
   - [Sonic Generations](#sonic-generations)
   - [Sonic Forces](#sonic-forces)
+  - [Sonic Robo Blast 2](#sonic-robo-blast-2)
 - [Webcomics](#webcomics)
   - [Fan-continuations](#fan-continuations)
 - [Videos](#videos)
@@ -343,21 +344,57 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 ## Sonic Robo Blast 2
 
-### Total Conversion Mods
+> This list contain only mods for SRB2 2.2. The old list is now in file SRB2-old.md
 
-- [SRB2 Heroes](https://mb.srb2.org/showthread.php?t=40876) - Sonic Heroes remake in SRB2, by STHE123O.
+### Total Conversion
 
-- [SRB2 2006](https://mb.srb2.org/showthread.php?t=42894) - Sonic 2006 remake in SRB2, by STHE123O.
+- [SRB2 Bomberman](https://mb.srb2.org/showthread.php?t=46510) - A bomberman mod for SRB2, by 
 
-### Levels and Level packs
+### Improvement and Feature mods
 
-- [SRB2 - Mystical Realm](https://mb.srb2.org/showthread.php?t=39674) - Extensive SRB2 Mod, by Mystic.
+- [SRB2NetPlus](https://mb.srb2.org/showthread.php?t=46342) - Play in netgame without control lag, by LXShadow.
 
-- [SRB2 - Tortured Planet](https://mb.srb2.org/showthread.php?t=39769) - SRB2 Mod, by Fawfulfan.
+- [Jeck Jims' 2.2 3D Models](https://mb.srb2.org/showthread.php?t=46560) - A pack of low-poly 3D models, by Jeck Jims.
 
-- [SRB2 - SUGOI](https://mb.srb2.org/showthread.php?t=41903) - Collective SRB2 mod with 30 levels by 25 contributors.
+- [Modern Monitors](https://mb.srb2.org/showthread.php?t=46622) - Use modern-styled item boxes, by Demnyx Onyxwing.
 
-- [SRB2 - SUBARASHII](https://mb.srb2.org/showthread.php?t=42837) - Sequel to SUGOI, another collective SRB2 mod, with 48 levels and works from over 60 contributors.
+- [Tails' Super Flickies](https://mb.srb2.org/showthread.php?t=46444) - Add S3&K Flickies on Tails' Super Transformation (and activate Tails Superform on SRB2), by birbhorse and gregory\_house.
+
+- [Everyone likes Tails](https://mb.srb2.org/showthread.php?t=46345) - Let Tails follow every other characters, by Zippy_Zolton.
+
+### Levels and Level Pack mods
+
+- [SRB2 Apologue Pack](https://mb.srb2.org/showthread.php?t=46028) - A set of Singleplayer / Co-op levels, turned into a neat short little campaign-style experience, by RomioTheBadass.
+
+- []()
+
+### Character Mods
+
+- [Tails Guy](https://mb.srb2.org/showthread.php?t=45726) - Tails as the Doom Guy, by Tripel the fox and Maximus Universal.
+
+- [Blaze The Cat](https://mb.srb2.org/showthread.php?t=46017) - By TDRR, Lilly, Naluigi and .Luke.
+
+- [Flicky](https://mb.srb2.org/showthread.php?t=45666) - A Flicky, by MotorRoach, HellHawkX, Lach and VAdaPEGA.
+
+- [Egg Robo](https://mb.srb2.org/showthread.php?t=46518) - By CobaltBW, DrTapeworm, SuperPhanto and toaster.
+
+- [Neo Sonic](https://mb.srb2.org/showthread.php?t=46505) - An Adventure/Advance-y Sonic, by Chengi, Crum, Dimpsuu, Lach, Lat' and TehRealSalt
+
+- [Metal Knuckles](https://mb.srb2.org/showthread.php?t=46047) - By Lloydirving7736, BENJITA9000, Chaos Zero 64, corneliab and senku.
+
+- [Mecha Sonic](https://mb.srb2.org/showthread.php?t=46737) - By CANINE.
+
+- [Modern Sonic](https://mb.srb2.org/showthread.php?t=46476) - Sonic Unleashed gameplay in SRB2, by MotdSpork, Badnik, Chrispy, Golden Shine, HitCoder, K.S., Lach, ManicTH14, Rumia1, TrickyTex, Zero\_the\_artificial, Zipper.
+
+- [Eggpack](https://mb.srb2.org/showthread.php?t=46482) - Eggman with a jetpack, by Zero\_the\_artificial.
+
+- [Silver the Hedgehog](https://mb.srb2.org/showthread.php?t=46496) - By Lat', Inazuma, MotorRoach, QuikSilver-TH, Snu, zxyspku.
+
+- [Sonic the Werehog](https://mb.srb2.org/showthread.php?t=46770) - The werehog with an adapted gameplay, by Zero\_the\_artificial ApocHedgie, DaOrangeBoi, Ikkarou Tatsuru, Inazuma, Lach, MotdSpork and Rumia1
+
+- [Yoshi](https://mb.srb2.org/showthread.php?t=46743) - Yep, it's him, by SMS Alfredo.
+
+- [Mighty the Armadillo](https://mb.srb2.org/showthread.php?t=46840) - Mighty with his Mania moveset, by Man553, Emong, Monster Iestyn, Tripel the fox.
 
 # Webcomics
 
