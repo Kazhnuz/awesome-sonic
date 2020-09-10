@@ -53,6 +53,12 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic Time Twisted](https://info.sonicretro.org/Sonic_Time_Twisted) - Sonic CD spiritual sequel, by Overbound and the Time Twisted Team.
 
+- [Sonic 3D in 2D](https://sotaknuck.itch.io/sonic3d2d) - A reimagination of Sonic 3D Blast with a structure similar to the one of S3&K, by Sotaknuck.
+
+## Modern Genesis Game
+
+- [Sonic Frenzy Adventure](https://sonicfangameshq.com/forums/showcase/sonic-frenzy-adventure.520/) - An Adventure-style 2D games, by Frenzy-kun.
+
 ## Advance-like
 
 - [Sonic Fusion](http://forums.sonicretro.org/index.php?showtopic=20641&st=0) - Sonic Adventure-inspired fangame in 2D, by Felik.
@@ -82,6 +88,10 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Sonic Souls](https://www.youtube.com/watch?v=b6KdeXxMOrA) - Sonic GDK-made 3D game.
 
 - [Sonic World](https://sonicworldfangame.com/) - 3D Fangame with a lot of characters and levels, by Ozcrash and the Sonic World Team.
+
+- [Sonic Incursion](https://forums.sonicretro.org/index.php?threads/sonic-incursion-released.32866/) - A 2.5 where you fight the Metallix Empire, by Ell678.
+
+- [Sonic GT](https://gamejolt.com/games/Sonic-GT/533291) - A 3D game with speed and exploration, by [NSGreedy](https://twitter.com/NSGreedy)
 
 ### Openworld Fangames
 
