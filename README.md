@@ -104,6 +104,10 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 > All games with non-standard gameplay
 
 - [Eggman hates furries](https://gamejolt.com/games/eggman-hates-furries/4110) - Boss-focused Sonic fangame with a unique ambiance, by Oddwarg.
+- [Sonic & Knuckles Flicky Panic](https://gamejolt.com/games/sonic-knuckles-flicky-panic/147734) - A screen-based puzzle plateformer, by Lionheart.
+- [Sonic & Knuckles Double Panic](https://gamejolt.com/games/sonic-knuckles-double-panic/148224) - Another screen-based puzzle plateformer, by Lionheart.
+- [Cheese Megadventure](https://gamejolt.com/games/cheese-megadventure/147783) - A small puzzle-plateformer with Cheese as the guest, by Lionheart.
+- [Chao World 2](https://gamejolt.com/games/chao-world-2/147721) - Another chao-based puzzle-plateformer, by Lionheart.
 
 ### Chao
 
