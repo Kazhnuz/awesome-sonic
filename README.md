@@ -57,7 +57,7 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 ## Modern Genesis Game
 
-- [Sonic Frenzy Adventure](https://sonicfangameshq.com/forums/showcase/sonic-frenzy-adventure.520/) - An Adventure-style 2D games, by Frenzy-kun.
+- [Sonic Frenzy Adventure](https://gamejolt.com/games/sfa/533938) - An Adventure-style 2D games, by Frenzy-kun.
 
 ## Advance-like
 
