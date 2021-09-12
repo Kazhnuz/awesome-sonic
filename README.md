@@ -41,7 +41,9 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic Axiom](https://forums.sonicretro.org/index.php?showtopic=26434) - CD-inspired Sonic Fangame, by Vexer.
 
-- [Sonic the Hedgehog Classic](https://info.sonicretro.org/Sonic_the_Hedgehog_Classic) - Retro-styled fangame, by Hez.
+- [Sonic Classic](https://info.sonicretro.org/Sonic_the_Hedgehog_Classic) - Retro-styled fangame, by Hez.
+
+- [Sonic Classic 2](https://sonicfangameshq.com/forums/showcase/sonic-classic-2.964/) - Sequel to Sonic Classic.
 
 - [Sonic Before the Sequel](https://info.sonicretro.org/Sonic_Before_the_Sequel) - Sonic 2 prequel, by Lakefeperd.
 
@@ -381,8 +383,6 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [SRB2 Apologue Pack](https://mb.srb2.org/showthread.php?t=46028) - A set of Singleplayer / Co-op levels, turned into a neat short little campaign-style experience, by RomioTheBadass.
 
-- []()
-
 ### Character Mods
 
 - [Tails Guy](https://mb.srb2.org/showthread.php?t=45726) - Tails as the Doom Guy, by Tripel the fox and Maximus Universal.
@@ -476,3 +476,9 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Sonic AtS OST](https://www.youtube.com/user/SonicATS13?disable_polymer=1)
 
 - [Dual Ages : Time Twisted OST](https://www.youtube.com/playlist?list=PLKYFFo0H3JcxYdJy3MIdBZt4x3XukxXCt&disable_polymer=1)
+
+# Other
+
+## Radia Drama
+
+- [Sonic and Tails R](https://www.youtube.com/playlist?list=PLVucl6B8OcBPCfQdgCMGUUFxv2Y7jl5_s) - A Sonic Radia Drama, by Emi Jones and Doryan Nelson, with several cast members from past and present Sonic games !
