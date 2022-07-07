@@ -57,6 +57,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic 3D in 2D](https://sotaknuck.itch.io/sonic3d2d) - A reimagination of Sonic 3D Blast with a structure similar to the one of S3&K, by Sotaknuck.
 
+- [Sonic and the Fallen Star](https://stardropsmh.github.io/sonic-and-the-fallen-star/) - A classic Sonic game with a dreamy/mid-90 aesthetic, by Stardrop.
+
 ## Modern Genesis Game
 
 - [Sonic Frenzy Adventure](https://gamejolt.com/games/sfa/533938) - An Adventure-style 2D games, by Frenzy-kun.
