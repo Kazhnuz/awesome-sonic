@@ -43,7 +43,7 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic Classic](https://info.sonicretro.org/Sonic_the_Hedgehog_Classic) - Retro-styled fangame, by Hez.
 
-- [Sonic Classic 2](https://sonicfangameshq.com/forums/showcase/sonic-classic-2.964/) - Sequel to Sonic Classic.
+- [Sonic Classic 2](https://sonicfangameshq.com/forums/showcase/sonic-classic-2.964/) - Sequel to Sonic Classic, by Hez.
 
 - [Sonic Before the Sequel](https://info.sonicretro.org/Sonic_Before_the_Sequel) - Sonic 2 prequel, by Lakefeperd.
 
