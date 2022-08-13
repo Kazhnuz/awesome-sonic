@@ -59,6 +59,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic and the Fallen Star](https://stardropsmh.github.io/sonic-and-the-fallen-star/) - A classic Sonic game with a dreamy/mid-90 aesthetic, by Stardrop.
 
+- [Sonic Triple Trouble 16-bits](https://gamejolt.com/games/sonictripletrouble16bit/322794) - A 16-bit remake of Sonic Triple Trouble that reimagine it as a sequel to S3&K, by NoahNCopeland.
+
 ## Modern Genesis Game
 
 - [Sonic Frenzy Adventure](https://gamejolt.com/games/sfa/533938) - An Adventure-style 2D games, by Frenzy-kun.
