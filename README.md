@@ -65,6 +65,10 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic Frenzy Adventure](https://gamejolt.com/games/sfa/533938) - An Adventure-style 2D games, by Frenzy-kun.
 
+## 8-bit inspired
+
+- [Sonic Blasting Adventure](https://gamejolt.com/games/sonic_blasting_adventure/252769) - A remake of Game Boy/Game Boy Color bootleg Sonic games, by GustavoCazonato.
+
 ## Advance-like
 
 - [Sonic Fusion](http://forums.sonicretro.org/index.php?showtopic=20641&st=0) - Sonic Adventure-inspired fangame in 2D, by Felik.
