@@ -93,6 +93,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [SRB2 Kart](https://mb.srb2.org/showthread.php?t=43708) - SRB2 Karting dérivative game, by the Kart Krew.
 
+- [Sonic Revert](https://taldius.itch.io/sonic) - Multiplayer racing game, by Taldius.
+
 ## 3D Modern
 
 - [Sonic Souls](https://www.youtube.com/watch?v=b6KdeXxMOrA) - Sonic GDK-made 3D game.
