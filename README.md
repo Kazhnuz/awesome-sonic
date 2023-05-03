@@ -105,6 +105,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 
 - [Sonic GT](https://gamejolt.com/games/Sonic-GT/533291) - A 3D game with speed and exploration, by [NSGreedy](https://twitter.com/NSGreedy)
 
+- [Project P-06](https://www.youtube.com/watch?v=SCD5aQLlCD4) - An improved recreation of Sonic 2006, by ChaosX
+
 ### Openworld Fangames
 
 - [Green Hill Paradise](https://www.youtube.com/watch?v=C0IsSeE_ckI) - Open-World one-level 3D Sonic Fangame, by SuperSonic68.
@@ -152,6 +154,8 @@ The Sonic community have created a lot of awesome content for years. Despite tha
 - [Sonic 2 Retro Remix](http://info.sonicretro.org/Sonic_2_Retro_Remix) - A Sonic 2D hacks that require exploration to progress, by Thorn and DNXDelta.
 
 - [Sonic 2 Advanced Edit](http://info.sonicretro.org/Sonic_2:_Advanced_Edit) - A complete hack of Sonic 2, transforming it in a brand new game, by rika_chou and Team Advanced Edit
+
+- [Sonic Hellfire Saga](https://www.youtube.com/watch?v=SiEohopUkWc) - Sonic vs demons, by Red Miso Studio.
 
 ### Small games
 
