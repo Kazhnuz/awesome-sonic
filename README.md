@@ -4,8 +4,7 @@
 
 The Sonic community have created a lot of awesome content for years. Despite that, many people don't always know that part of the fandom. The goal of this list is to make it easier to discover all those creation and fun stuff.
 
-
-> **This list is a WIP and still very incomplete**
+**Note:** This list is now part of [Sonic Garden](sonic.fanstuff.garden)
 
 # Content
 
